@@ -1,9 +1,9 @@
 <?php
 
 // Premiere ligne
+$user = $_POST['fname'];
 
-
-echo "Bienvenue". ;
+echo "Bienvenue". $user ;
 
 
 
